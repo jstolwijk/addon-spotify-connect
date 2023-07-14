@@ -31,7 +31,7 @@ fi
 
 # Save writes
 options+=(--disable-audio-cache)
-options+=(--onevent "${pwd}/onevent")
+options+=(--onevent "/etc/services.d/spotifyd/onevent")
 
 # Are we running in debug mode?
 if bashio::debug; then
