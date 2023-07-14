@@ -31,7 +31,7 @@ fi
 
 # Save writes
 options+=(--disable-audio-cache)
-options+=(--onevent ./onevent)
+options+=(--onevent "${pwd}/onevent")
 
 # Are we running in debug mode?
 if bashio::debug; then
