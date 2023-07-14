@@ -130,3 +130,5 @@ SOFTWARE.
 [releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-spotify-connect.svg
 [releases]: https://github.com/hassio-addons/addon-spotify-connect/releases
 [repository]: https://github.com/hassio-addons/repository
+
+.
